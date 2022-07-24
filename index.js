@@ -28,3 +28,5 @@ function generateRGB() {
 console.log(generateRGB())
 
 // step-3 collect all reference  
+
+// step-4 event handle
